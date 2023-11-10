@@ -1,2 +1,2 @@
-# -pygame
+# pygame
 Based on pygame 
