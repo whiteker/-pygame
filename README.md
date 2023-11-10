@@ -1,6 +1,6 @@
 # pygame
-Based on pygame 
-if you have any questoins, feel free to submit issues.
+Based on pygame      
+if you have any questoins, feel free to submit issues.     
 before running the code,you need to modify the image path.
 
 如果你有任何问题，请随意提出issue。
